@@ -1,10 +1,3 @@
-# reto_iot_api
-API del reto IOT para crear nuevos dispositivos, sensores y mediciones.
-
-Equipo:
-
-Andrea Ochoa Zuluga A01660137
-Luis Fernando Valdeón A01745186
-Marco Antonio Torres A01025334
-Valeria Parraga Muñoz A01029428
-Miguel Bustamante Pérez A01781583
+# Air Quality IoT System 
+system that monitors air quality with an arduino sensor connection, sends
+the records to an API and saves the records in a MySQL database.
